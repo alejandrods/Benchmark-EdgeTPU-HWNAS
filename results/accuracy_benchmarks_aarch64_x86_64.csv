@@ -1,0 +1,9 @@
+MODEL ACCURACY
+efficientnet-edgetpu-L_quant_edgetpu.tflite 0.8141
+efficientnet-edgetpu-M_quant_edgetpu.tflite 0.7936
+efficientnet-edgetpu-S_quant_edgetpu.tflite 0.7798
+inception_v1_224_quant_edgetpu.tflite 0.7025
+inception_v4_299_quant_edgetpu.tflite 0.8015
+mobilenet_v1_1.0_224_quant_edgetpu.tflite 0.4095
+mobilenet_v2_1.0_224_quant_edgetpu.tflite 0.7312
+tfhub_tf2_resnet_50_imagenet_ptq_edgetpu.tflite 0.7592

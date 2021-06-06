@@ -1,0 +1,9 @@
+MODEL INFERENCE_TIME
+efficientnet-edgetpu-L_quant.tflite 23185.684759634
+efficientnet-edgetpu-M_quant.tflite 8621.524829856
+efficientnet-edgetpu-S_quant.tflite 5235.242421874
+inception_v1_224_quant.tflite 91.243982428
+inception_v4_299_quant.tflite 703.748612458
+mobilenet_v1_1.0_224_quant.tflite 55.784953121
+mobilenet_v2_1.0_224_quant.tflite 51.745856145
+tfhub_tf2_resnet_50_imagenet_ptq.tflite 559.164253941
